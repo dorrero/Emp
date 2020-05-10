@@ -1,0 +1,17 @@
+{
+	"empdata" : [{
+		"Id" : "1",
+		"name" : "abc",
+		"role" : "manager"
+		},
+		{
+		"Id" : "2",
+		"name" : "pqr",
+		"role" : "director"
+		},
+		{
+		"Id" : "3",
+		"name" : "xyz",
+		"role" : "intern"
+		}
+]}
